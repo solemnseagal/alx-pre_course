@@ -1,3 +1,1 @@
-# My first Git project
-
-My journey towards software engineering. So excited
+**This file is mandatory in all ALX School projects**
