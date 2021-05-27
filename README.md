@@ -1,3 +1,3 @@
 # My first Git project
 
-My journey towards software engineering
+My journey towards software engineering. So excited
